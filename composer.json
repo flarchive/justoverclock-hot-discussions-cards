@@ -1,0 +1,42 @@
+{
+    "name": "justoverclock/hot-discussions-cards",
+    "description": "Show 3 cards with hot discussions preview",
+    "keywords": [
+        "hot discussions cards",
+        "popular discussions",
+        "popular",
+        "discussions"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.0.0",
+        "flarum/tags": "^1.0.3"
+    },
+    "require-dev": {
+        "flarum/testing": "^1.0.0"
+    },
+    "authors": [
+        {
+            "name": "Marco Colia",
+            "email": "info@flarum.it",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Justoverclock\\HotDiscussionCards\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Hot Cards",
+            "category": "feature",
+            "icon": {
+                "name": "far fa-address-card",
+                "backgroundColor": "purple",
+                "color": "white"
+            }
+        }
+    }
+}
