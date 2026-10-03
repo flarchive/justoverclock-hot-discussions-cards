@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of justoverclock/hot-discussions-cards.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/hot-discussions-cards) or the [upstream repository](https://github.com/justoverclockl/hot-discussions-cards).
 
-**0** versions archived · Latest: [`0.1.6`](https://github.com/flarchive/justoverclock-hot-discussions-cards/tree/archive/v0.1.6) · License: `MIT` · Flarum: `^1.0.0`
+**7** versions archived · Latest: [`0.1.6`](https://github.com/flarchive/justoverclock-hot-discussions-cards/tree/archive/v0.1.6) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-12-31 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-hot-discussions-cards/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-12-31 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-hot-discussions-cards/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-12-31 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-hot-discussions-cards/tree/archive/v0.1.2) |
+| `0.1.3` | 2021-12-31 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-hot-discussions-cards/tree/archive/v0.1.3) |
+| `0.1.4` | 2021-12-31 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-hot-discussions-cards/tree/archive/v0.1.4) |
+| `0.1.5` | 2022-01-02 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-hot-discussions-cards/tree/archive/v0.1.5) |
+| `0.1.6` | 2022-01-03 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-hot-discussions-cards/tree/archive/v0.1.6) |
 
 Catalog entry: [packages/justoverclock-hot-discussions-cards.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-hot-discussions-cards.json)
 
